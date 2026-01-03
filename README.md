@@ -16,6 +16,12 @@
 - **Backend**: Node.js, Express.js
 - **API Design**: RESTful architecture
 
+## 🪟Dashboard View
+
+
+<img width="1876" height="1011" alt="Screenshot 2026-01-03 130418" src="https://github.com/user-attachments/assets/c553989b-79e4-4dc8-b17a-6326d070cfc3" />
+
+
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the repository
